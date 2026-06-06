@@ -1,0 +1,14 @@
+import WalletConnect from "@/components/WalletConnect";
+import WalletInfo from "@/components/WalletInfo";
+
+export default function Home() {
+  return (
+    <main>
+      <h1>ARCForge</h1>
+
+      <WalletConnect />
+
+      <WalletInfo />
+    </main>
+  );
+}
