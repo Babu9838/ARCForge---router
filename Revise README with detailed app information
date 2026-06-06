@@ -1,0 +1,33 @@
+# ARCForge---router
+ARCForge - Smart value router MVP on Arc. A simple web app that routes transaction accross chain. 
+------------------------------------------------
+                    ARCForge
+------------------------------------------------
+
+Wallet Section
+--------------
+Address
+Balance
+Current Network
+
+[Connect Wallet]
+
+Network Section
+---------------
+[Sepolia]
+[Arbitrum Sepolia]
+[ARC Testnet]
+
+Social Section
+--------------
+✔ GitHub Connected
+✔ Discord Connected
+✔ Twitter Connected
+
+Transaction Checker
+-------------------
+[ TX Hash Input ]
+
+[ Verify Transaction ]
+
+------------------------------------------------
