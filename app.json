@@ -1,0 +1,67 @@
+{
+  "app": {
+    "name": "ARCForge",
+    "version": "1.0.0"
+  },
+  "wallet": {
+    "connected": false,
+    "address": "",
+    "balance": "0",
+    "network": ""
+  },
+  "networks": [
+    {
+      "id": 11155111,
+      "name": "Sepolia",
+      "symbol": "ETH"
+    },
+    {
+      "id": 421614,
+      "name": "Arbitrum Sepolia",
+      "symbol": "ETH"
+    },
+    {
+      "id": 999999,
+      "name": "ARC Testnet",
+      "symbol": "ARC"
+    }
+  ],
+  "socials": {
+    "github": {
+      "connected": false,
+      "username": "",
+      "followers": 0,
+      "repositories": 0
+    },
+    "discord": {
+      "connected": false,
+      "username": "",
+      "serverJoined": false
+    },
+    "twitter": {
+      "connected": false,
+      "username": "",
+      "followers": 0
+    }
+  },
+  "transactionVerification": {
+    "txHash": "",
+    "status": "",
+    "network": "",
+    "blockNumber": "",
+    "gasUsed": ""
+  },
+  "profileCompletion": {
+    "percentage": 0,
+    "wallet": false,
+    "github": false,
+    "discord": false,
+    "twitter": false,
+    "transactionVerified": false
+  },
+  "ui": {
+    "theme": "dark",
+    "sidebar": true,
+    "responsive": true
+  }
+}
